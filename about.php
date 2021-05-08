@@ -28,10 +28,9 @@
             </div>
             <div
                 class="lg:flex-grow md:w-1/2 lg:pl-24 md:pl-16 flex flex-col md:items-start md:text-left items-center text-center">
-                <h1 class="title-font sm:text-4xl text-3xl mb-4 font-medium text-white">Rajdeep Ghosh</h1>
+                <h1 class="title-font sm:text-4xl text-3xl mb-4 font-medium text-white">Gautam Baishya</h1>
                 <p class="mb-8 leading-relaxed text-justify">I am a Btech Student Studying in Tezpur University. This a
-                    dummy website which created for personal practice. This forum is a type clone of famous webites such
-                    as Stack Overflow and other forum Websites. You can reach to me using the following options given
+                    simple payroll system where I used php as a backend. You can reach to me using the following options given
                     down.</p>
 
                 <p class="text-sm mt-2 text-gray-600 mb-8 w-full text-justify ">Reach Out to me</p>
@@ -51,8 +50,8 @@
                         </svg>
                     </div>
                     <h2 class="text-lg text-white font-medium title-font mb-2">GIT</h2>
-                    <p class="leading-relaxed text-base"><a href="https://github.com/rajghosh2000"
-                            target="_blank">rajghosh2000</a>
+                    <p class="leading-relaxed text-base"><a href="https://github.com/gautambaishya"
+                            target="_blank">gautambaishya</a>
                     </p>
                 </div>
             </div>
@@ -69,28 +68,11 @@
                         </svg>
                     </div>
                     <h2 class="text-lg text-white font-medium title-font mb-2">LinkedIn</h2>
-                    <p class="leading-relaxed text-base"><a href="https://www.linkedin.com/in/rajdeep-ghosh-301082175/"
-                            target="_blank">Rajdeep
-                            Ghosh</a></p>
+                    <p class="leading-relaxed text-base"><a href="https://www.linkedin.com/in/gautam-baishya-6ab513194/"
+                            target="_blank">Gautam Baishya</a></p>
                 </div>
             </div>
-            <div class="xl:w-1/3 md:w-1/2 p-4">
-                <div class="border border-gray-800 p-6 rounded-lg">
-                    <div
-                        class="w-10 h-10 inline-flex items-center justify-center rounded-full bg-gray-800 text-indigo-400 mb-4">
-                        <svg fill="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"
-                            class="w-5 h-5" viewBox="0 0 24 24">
-                            <path
-                                d="M23 3a10.9 10.9 0 01-3.14 1.53 4.48 4.48 0 00-7.86 3v1A10.66 10.66 0 013 4s-4 9 5 13a11.64 11.64 0 01-7 2c9 5 20 0 20-11.5a4.5 4.5 0 00-.08-.83A7.72 7.72 0 0023 3z">
-                            </path>
-                        </svg>
-                    </div>
-                    <h2 class="text-lg text-white font-medium title-font mb-2">Twitter</h2>
-                    <p class="leading-relaxed text-base"><a href="https://twitter.com/RAJDEEP93026376"
-                            target="_blank">Rajdeep
-                            Ghosh</a></p>
-                </div>
-            </div>
+            
             
         </div>
     </section>
